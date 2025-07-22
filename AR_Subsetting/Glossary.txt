@@ -1,0 +1,14 @@
+AR_MJO_Connection_Fam.py = Uses the AR Familiy files to locate AR-MJO LPT physical connections
+Pac_Basin_ARs.py = Uses the AR Familiy files to locate AR families that terminate in my north Pacific region
+AR_MJO_Connection_Splt_Mrg_RAW.py = Finds the AR split/merge systems that come from AR Families that that are connected to the MJO LPT
+AR_MJO_Connection_Splt_Mrg_DT_filt.py= Takes the AR split/merge systems that come from AR Families that that are connected to the MJO LPT and splits them into AR systems that are definitively connected to the MJO (AR-MJO time precedes or coincides with initiation) OR ARs where that isn't the case but the MJO might connect downstream later
+Non_Active_MJO_Splt_Mrg.py = finds AR split/merge systems that took place when no active MJO was present over the duration of their lifetimes only for the Pacific Basin region of interest
+AR_MJO_Connection_UNCL_ARs.py = checks to see if AR Split/Merge Systems that had unclear connections connect to the MJO LPT at any time during thier lifetime
+MJO_Active_Pac_Basin.py = finds AR split/merge systems within pacific basin region that took place an active MJO was present at some point during the lifetime but did not connect to MJO LPT
+LE_MJO_Active.py = finds the leading edge (easternmost point) of MJO-Active AR systems
+LE_MJO_Connected.py = finds the leading edge (easternmost point) of MJO-Conected AR systems
+LE_Non_MJO.py = finds the leading edge (easternmost point) of Non-MJO AR systems
+LF_MJO_Active_ARs.py = determines if/when a MJO-Active AR system makes lanfall
+LF_MJO_Conn_ARs.py = determines if/when a MJO-Connected AR system makes lanfall
+LF_Non_MJO_ARs.py = determines if/when a Non-MJO AR system makes lanfall
+consolidate_IVT_global_analysis.ipynb = consolidates all of the split/merger csvs into single files

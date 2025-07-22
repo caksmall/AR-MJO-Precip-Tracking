@@ -1,0 +1,2 @@
+US_West_Coast_mask_IMERG.nc = Combined WA, OR, CA boundary as binary netcdf file at .1 degree resolution
+WC_US_state_mask_ERA5_FULL.nc = Combined WA, OR, CA boundary as binary netcdf file at .25 degree resolution

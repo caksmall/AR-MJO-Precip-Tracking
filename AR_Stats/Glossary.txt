@@ -1,0 +1,14 @@
+Add_IVT_Global_ARs_Bkrens_Vers_NEW.py = My implimentation of Brandon Kern's code that adds the max IVT (AR LPT ID) to AR systems
+Add_IVT_Global_ARs_Bkrens_Vers_NEW_Splits.py = My implimentation of Brandon Kerns's code that adds the max IVT (AR LPT ID) to AR systems that are split and merged (global total)
+Add_ERM_Non_MJO_ARs_UPDATE.py = adds Max 3-day ERM data and month information to Non-MJO AR systems (split/merged)
+Add_ERM_MJO_Active_ARs_UPDATE.py =  adds Max 3-day ERM data and month information to MJO-Active AR systems (split/merged)
+Add_ERM_MJO_ARs_UPDATE.py = adds Max 3-day ERM data and month information to MJO-Connected AR systems (split/merged)
+ERM_stats_violin.ipnyb = plots the violin plots and statistics of max 3-day ERM 
+Duration_stats_violin.ipnyb = plots the violin plots and statistics of AR duration
+Area_stats_violin.ipnyb = plots the violin plots and statistics of max AR area 
+IVT_stats_violin.ipnyb = plots the violin plots and statistics of max AR IVT 
+MJO_AR_Con_Prob.py = calculates the conditional probablity information for the MJO-Connection modes in this study
+DJFM_MJO_Vol_Rain_MJO_Active.py = calculates the volumetric rain of the MJO LPT when it temporally co-occurs, but does not physically connect, with an AR
+DJFM_MJO_Vol_Rain_MJO_Conn.py = calculates the volumetric rain of the MJO LPT when it physically connects with an AR
+MJO_LPT_Vol_Rain.ipynb = plots the volumetric rain information of the MJO LPT for MJO-Active v. MJO-Connected cases
+

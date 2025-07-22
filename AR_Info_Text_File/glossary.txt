@@ -1,0 +1,10 @@
+LF_MJO_Active_ARs.csv = this the list of split/merged AR systems that make landfall on US West Coast when the MJO is active, but don't physically connect
+LF_MJO_Connected_ARs.csv = this the list of split/merged AR systems that make landfall on US West Coast that physically connect to the MJO LPT
+LF_Non_MJO_ARs.csv = this the list of split/merged AR systems that make landfall on US West Coast that take place when no MJO LPT takes place during their lifetimes
+ERM_3day_MJO_Active_ARs_UPDATE.csv = this the list of split/merged AR systems that make landfall on US West Coast when the MJO is active, but don't physically connect (with max ERM data)
+ERM_3day_MJO_Connected_ARs_UPDATE.csv = this the list of split/merged AR systems that make landfall on US West Coast that physically connect to the MJO LPT (with max ERM data)
+ERM_3day_Non_MJO_ARs_UPDATE.csv = this the list of split/merged AR systems that make landfall on US West Coast that take place when no MJO LPT takes place during their lifetimes (with max ERM data)
+MJO_Max_Rain_MJO_Connected_ARs.csv = this the list of split/merged AR systems that make landfall on US West Coast that physically connect to the MJO LPT (with max ERM data and max volumetric rainfall data of the associated MJO LPT)
+MJO_Max_Rain_MJO_Active_ARs.csv = this the list of split/merged AR systems that make landfall on US West Coast when the MJO is active, but don't physically connect (with max ERM data and max volumetric rainfall data of the associated MJO LPT)
+DJFM_MJO_LPT_Vol_Rain_MJO_Conn.csv = this is the MJO LPT volumetric rainfall data at every time stamp for every MJO LPT associated with MJO-Connected ARs from December through March
+DJFM_MJO_LPT_Vol_Rain_MJO_Active.csv = this is the MJO LPT volumetric rainfall data at every time stamp for every MJO LPT associated with MJO-Active ARs from December through March

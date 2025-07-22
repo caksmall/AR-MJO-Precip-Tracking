@@ -1,0 +1,2 @@
+MJO_LPT_AR_track.ipynb = this generates the images needed for figure 1
+test_plot_AR_tracking.ipynb = this generates the images needed for figure 3. Note that the ARs here are different, but they're saved in the directory itself in the netcdfs folder

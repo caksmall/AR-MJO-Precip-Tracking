@@ -1,0 +1,8 @@
+MJO_LPT_Count_Hours.py = tells you the overall number of hours the MJO LPT is present when an AR (MJO-Active or MJO-Connected) is present
+MJO_LPT_Freq_Clim.py = In individual chunks, it gives you summation of MJO LPT binary masks that provide a spatial distribution of the overall location of the MJO LPT when an AR is present
+MJO_LPT_Freq_MJO_Active.py = In individual chunks, it gives you the the summation of MJO LPT binary masks for a spatial distribution for MJO-Active ARs
+MJO_LPT_Freq_MJO_Conn.py = In individual chunks, it gives you the the summation of MJO LPT binary masks for a spatial distribution for MJO-Connected ARs
+MJO_LPT_plot.ipynb = Plots the spatial distribution of the MJO LPT overall and by MJO-Active and MJO-Connected ARs
+plot_DJFM_MJO_LPT_Freq_Clim_Traj.py = plots the trajectories of the MJO LPTs used in this dataset
+MJO_RMM_space.ipynb = plots the rmm phase bar charts
+RMM_dist\ = has scripts that produce the the spatial distribution and number of hours for each RMM index and MJO interaction mode

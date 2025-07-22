@@ -1,0 +1,11 @@
+Data usage guide for this directory:
+- Each nested folder has a glossary file that indicates exactly what each file in said folder does/corresponds to.
+- In order to recreate this analysis, start with 'AR_Subsetting' and then move to 'AR_Stats'
+- Once the scripts in those two folders are completed, you can navigate any of the other folders in any fashion you'd like
+- Text files in the 'AR_Info_Text_File' folder corresponds to AR Systems and MJO LPT (IMERG V7) systems that can be found at the following urls.
+- AR Data: https://zenodo.org/records/14977121
+- MJO LPT Data: https://orca.atmos.washington.edu/data/lpt/
+- If you have the AR and MJO LPT data downloaded, you can skip most of the scripts in 'AR_Subsetting' if you update the file string 'AR ID (string)' column of:
+- ERM_3day_MJO_Active_ARs_UPDATE.csv
+- ERM_3day_MJO_Connected_ARs_UPDATE.csv
+- ERM_3day_Non_MJO_ARs_UPDATE.csv

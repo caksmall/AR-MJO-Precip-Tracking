@@ -1,0 +1,3 @@
+Update_ERM_Case_studies.ipynb = this notebook generates the ERM/precip map for the Non-MJO example
+search_new_ERM_Case_studies.ipynb = his notebook generates the ERM/precip maps for the MJO-Active and MJO-Connected examples
+ERM_Case_Study_Overview.ipynb = creates the moisture hovmollers and lifetime development figures (figs 9-11)
