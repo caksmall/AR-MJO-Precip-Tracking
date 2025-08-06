@@ -1,4 +1,5 @@
 # AR-MJO-Precip-Tracking
+[![DOI](https://zenodo.org/badge/1024511780.svg)](https://doi.org/10.5281/zenodo.16756273)
 Repo for AR-MJO interaction Publication 
 - Each nested folder has a glossary file that indicates exactly what each file in said folder does/corresponds to.
 - In order to recreate this analysis, start with 'AR_Subsetting' and then move to 'AR_Stats'
